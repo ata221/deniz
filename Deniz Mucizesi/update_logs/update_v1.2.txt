@@ -1,0 +1,13 @@
+..:: Deniz (Story Teller) v1.2 Yenilikler ::..
+• Artýk dm!ascii komutu ile istediðiniz yazýyý bir sanat eserine dönüþtürebilirsiniz.
+• Artýk dm!flood komutunu kullanarak Deniz'in kafasýný yaþayabilirsiniz.
+• Eðer siz de bir geliþtiriciyseniz dm!userid yazarak istediðiniz kullanýcýnýn id'sini öðrenebilirsiniz.
+• Hava durumu arayüzümüz yenilendi. dm!hava komutunu kullanarak detaylý bilgiye sahip olabilirsiniz.
+• Tüm döviz bilgileri dm!döviz menüsü altýnda toplandý.
+• Artýk bot kendi mesajýna cevap vermiyor!
+• Tüm komutlarýn yer aldýðý dm!komutlar menüsü daha þýk bir tasarýma kavuþtu.
+• Bot ile dm!taþkaðýtmakas yazarak taþ kaðýt makas oynayabilirsiniz.
+• dm!müzik yazarak sizler için seçtiðim güzel þarkýlara göz atabilirsiniz.
+• Bazý sorun çýkartan buglar düzeltildi.
+• Daha sonra düzeltmek için yeni buglar eklendi.
+@everyone
