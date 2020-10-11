@@ -1,0 +1,29 @@
+{
+  "install": "pip3 install --user -r requirements.txt",
+  "install": "pip3 install feedparser",
+  "install": "pip3 install beautifulsoup4",
+  "install": "pip3 install pyfiglet",
+  "install": "pip3 install art",
+
+  
+
+  "start": "PYTHONUNBUFFERED=true python3 server.py",
+  
+  "watch": {
+    "ignore": [
+      "\\.pyc$"
+    ],
+    "install": {
+      "include": [
+        "^requirements\\.txt$"
+      ]
+    },
+    "restart": {
+      "include": [
+        "\\.py$",
+        "^start\\.sh"
+      ]
+    },
+    "throttle": 1000
+  }
+}

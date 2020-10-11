@@ -1,0 +1,10 @@
+..:: Deniz (Story Teller) v1.3 Yenilikler ::..
+• dm!komikkadýn yazarak espri yeteneði olan kadýnlarý görebilirsiniz.
+• dm!avatar yazarak istediðiniz kiþinin discord profil resmini görebilirsiniz.
+• Çok ayýp bir özellik olan dm!dick komutu kaldýrýldý.
+• Uzun süredir kapalý olan dm!bot komutunu kullanarak Deniz'in yapay zeka haliyle sohbet edebilirsiniz.
+• Bot'un istediðiniz cümleyi veya da kelimeyi söylemesi için dm!konuþ komutunu kullanabilirsiniz.
+• Bu güncelleme ile birlikte bot'un kod satýrý sayýsý 1000'e ulaþtý.
+• Bazý sorun çýkartan buglar düzeltildi.
+• Daha sonra düzeltmek için yeni buglar eklendi.
+@everyone
