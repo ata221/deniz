@@ -1,0 +1,3 @@
+discord.py
+BeautifulSoup.py
+feedparser.py
